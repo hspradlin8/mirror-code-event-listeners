@@ -1,0 +1,1 @@
+Type in the main text box. Your text will mirror in the other two boxes below. 
